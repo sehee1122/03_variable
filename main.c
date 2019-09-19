@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("Hello Sookmyung EE!\n");
+	printf("Hello Sookmyung EE!\n\n");
 
 	
 	int x;
@@ -18,7 +18,7 @@ int main(int argc, char *argv[]) {
 	printf("bytes of char : %d\n", sizeof(y));
 	printf("bytes of short : %d\n", sizeof(z));
 	printf("bytes of float : %d\n", sizeof(p));
-	printf("bytes of double : %d\n", sizeof(q));
+	printf("bytes of double : %d\n\n", sizeof(q));
 	
 	
 	int input_int;
